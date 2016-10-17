@@ -1,7 +1,7 @@
 Pixelate Shader
 ===============
 
-Just A "Low Quality" shader for THREE.js. ([DEMO](http://www.robertcasanova.it/demo/threejs/pixelateShader))
+Just A "Low Quality" shader for THREE.js.
 
 ![Screenshot][screenshot]
 
