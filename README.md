@@ -3,7 +3,7 @@ Pixelate Shader
 
 Just A "Low Quality" shader for THREE.js. ([DEMO](http://www.robertcasanova.it/demo/threejs/pixelateShader))
 
-![alt text][screenshot]
+![Screenshot][screenshot]
 
 
 ### Usage ###
@@ -21,4 +21,4 @@ Then modify your existing code like [this example](./example/index.html)
 
 
 
-[screenshot]:  (./pixelate.jpg)"Screenshot"
+[screenshot]: ./pixelate.jpg
