@@ -1,0 +1,21 @@
+{
+  "name": "pixelateshader",
+  "version": "1.0.0",
+  "description": "Just a \"Low Quality Pixel\" shader for THREE.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "three.js",
+    "shader",
+    "postprocessing",
+    "webgl",
+    "3d"
+  ],
+  "author": "Robert Casanova <robb.casanova@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.81.2"
+  }
+}
